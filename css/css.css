@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#electricity-meter {
+    width: 80vw;
+    background: url("/assets/svg/electricity-meter.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: inherit;
+    background
+}
+
+.digit {
+    width: 50px;
+}
